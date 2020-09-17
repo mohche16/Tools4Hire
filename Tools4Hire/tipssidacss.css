@@ -1,0 +1,12 @@
+article#main-col1 {
+  float: left;
+  width: 85%;
+  text-align: center;
+}
+
+ul#tips_artiklar li {
+  padding: 20px;
+  border: #cccccc solid 3px;
+  margin-bottom: 10px;
+  list-style: none;
+}
